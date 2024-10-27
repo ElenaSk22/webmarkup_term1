@@ -22,8 +22,8 @@ body {
 
 /* Header styles */
 header {
-    background-color: #c3dfcf;
-    color: white;
+    background-color: #cee2d6;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 50px 0;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -44,7 +44,7 @@ header p {
 .navbar {
     display: flex;
     justify-content: center;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 10px;
     position: sticky;
     top: 0;
