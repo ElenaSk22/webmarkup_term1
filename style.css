@@ -1,11 +1,11 @@
-/* Reset some default styles */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* General body styling */
+
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f0f4f7;
@@ -13,14 +13,14 @@ body {
     line-height: 1.6;
 }
 
-/* Container for page content */
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
 }
 
-/* Header styles */
+
 header {
     background-color: #cee2d6;
     color: rgb(255, 255, 255);
@@ -40,7 +40,7 @@ header p {
     color: #ecf0f1;
 }
 
-/* Navbar styles */
+
 .navbar {
     display: flex;
     justify-content: center;
@@ -70,7 +70,7 @@ header p {
     border: 2px solid #98c2aa;
 }
 
-/* Section styles */
+
 section {
     padding: 60px 20px;
     text-align:center;
