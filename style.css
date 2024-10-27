@@ -133,11 +133,12 @@ footer {
     text-align: center;
     margin-top: 50px;
     font-size: 0.9em;
+    width: 100vw;
 }
 
-footer p {
-    margin-bottom: 10px;
-}
+
+    
+
 
 footer a {
     color: #2ecc71;
